@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578637827180.000,
+    "dirty" : false,
+    "encoding" : "UTF8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA15DE79",
+    "lastKnownWriteTime" : 1578645722,
+    "last_content_update" : 1578645722848,
+    "path" : "~/chinhung/develop/packages/wtotariffcrawler/R/helper.R",
+    "project_path" : "R/helper.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

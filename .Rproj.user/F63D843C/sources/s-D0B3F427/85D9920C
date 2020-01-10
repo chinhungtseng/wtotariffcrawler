@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578637984355.000,
+    "dirty" : false,
+    "encoding" : "UTF8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85D9920C",
+    "lastKnownWriteTime" : 1578645757,
+    "last_content_update" : 1578645757741,
+    "path" : "~/chinhung/develop/packages/wtotariffcrawler/inst/extdata/downloader.R",
+    "project_path" : "inst/extdata/downloader.R",
+    "properties" : {
+        "cursorPosition" : "52,20",
+        "scrollLine" : "29"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

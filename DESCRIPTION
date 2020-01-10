@@ -1,0 +1,19 @@
+Package: wtotariffcrawler
+Type: Package
+Title: wtotariffcrawler
+Version: 0.1.0
+Author: person(given = "Peter", family = "Tseng", role = c("aut", "cre"), email = "chinhung@taitra.org.tw")
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: wtotariffcrawler
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.6.0)
+Imports: 
+    httr (>= 1.4.1),
+    rvest (>= 0.3.4),
+    tibble (>= 2.1.3),
+    dplyr (>= 0.8.3),
+    purrr (>= 0.3.3)
+RoxygenNote: 6.1.1
+License: MIT + file LICENSE

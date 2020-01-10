@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578637847635.000,
+    "dirty" : false,
+    "encoding" : "UTF8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "474123C5",
+    "lastKnownWriteTime" : 1578637857,
+    "last_content_update" : 1578637857774,
+    "path" : "~/chinhung/develop/packages/wtotariffcrawler/R/request_post.R",
+    "project_path" : "R/request_post.R",
+    "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
