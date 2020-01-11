@@ -1,12 +1,3 @@
-pkgs <- c("rvest", "httr", "tibble", "stringr")
-for (i in seq_along(pkgs)) {
-  if (!require(pkgs[i], character.only = TRUE)) {
-    install.packages(pkgs[i])
-  }
-  library(pkgs[i], character.only = TRUE)
-}
-
-
 wto_crawler <- new_wto_crawler()
 import_country_tbl <- get_import_country(wto_crawler)
 import_list <- import_country_tbl$value
