@@ -3,6 +3,7 @@ import_country_tbl <- get_import_country(wto_crawler)
 import_list <- import_country_tbl$value
 
 for (import in import_list) {
+
   import_session <- request_wto_post(
     wto_crawler,
     params = list(import = import, export = "", hs2 = "", hs4 = "", hs6 = "", submit = ""),

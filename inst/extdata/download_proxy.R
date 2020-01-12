@@ -1,6 +1,6 @@
 library(httr)
 library(rvest)
-library(future)
+library(foreach)
 library(doParallel)
 
 # 1) send request to server.
@@ -25,7 +25,7 @@ names(proxy_data) <- proxy_name
 cores <- parallel::detectCores()
 doParallel::registerDoParallel(cores = (cores - 1))
 output_valided <- foreach::foreach(i = seq_len(nrow(proxy_data)),
-  .verbose = FALSE, .combine = rbind, .export = c("proxy_data"),
+  .verbose = TRUE, .combine = rbind, .export = c("proxy_data"),
   .packages = c("httr", "rvest", "wtotariffcrawler")) %dopar% {
     if (i >= 1) Sys.sleep.random()
     cat("[test] (", i, ") proxy ip: ", proxy_data$ip_address[i], " port: ", proxy_data$port[i], "\n", sep = "")
@@ -44,4 +44,4 @@ output_valided <- foreach::foreach(i = seq_len(nrow(proxy_data)),
   }
 
 # 5) output the date that can be used.
-saveRDS(valid_proxy_ips, "inst/extdata/proxy.rds")
+saveRDS(output_valided, "inst/extdata/proxy.rds")
