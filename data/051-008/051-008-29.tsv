@@ -1,0 +1,516 @@
+年度	關稅版本	HS Code	產品描述	從價稅 %	從量稅	import	export	hs2
+2018	HS2017	2901100001-  	- - Ethane; butane; isobutane	3	 	051	008	29
+2018	HS2017	2901100002-  	- - Pentane; isopentane	3	 	051	008	29
+2018	HS2017	2901100009-  	- - Other	3	 	051	008	29
+2018	HS2017	2901210000-  	- - Ethylene	3	 	051	008	29
+2018	HS2017	2901220000-  	- - Propene (propylene)	3	 	051	008	29
+2018	HS2017	2901230000-  	- - Butene (butylene) and isomers thereof	3	 	051	008	29
+2018	HS2017	2901240001-  	- - - Buta-1,3-diene	0	 	051	008	29
+2018	HS2017	2901240002-  	- - - Isoprene	3	 	051	008	29
+2018	HS2017	2901290000-  	- - Other	3	 	051	008	29
+2018	HS2017	2902110000-  	- - Cyclohexane	3	 	051	008	29
+2018	HS2017	2902190000-  	- - Other	3	 	051	008	29
+2018	HS2017	2902200000-  	- Benzene	0	 	051	008	29
+2018	HS2017	2902300000-  	- Toluene	0	 	051	008	29
+2018	HS2017	2902410000-  	- - ?-xylene	3	 	051	008	29
+2018	HS2017	2902420000-  	- - m-xylene	3	 	051	008	29
+2018	HS2017	2902430000-  	- - p-xylene	3	 	051	008	29
+2018	HS2017	2902440000-  	- - Mixed xylene isomers	3	 	051	008	29
+2018	HS2017	2902500000-  	- Styrene	3	 	051	008	29
+2018	HS2017	2902600000-  	- Ethylbenzene	3	 	051	008	29
+2018	HS2017	2902700000-  	- Xumene	3	 	051	008	29
+2018	HS2017	2902900000-  	- Other	0	 	051	008	29
+2018	HS2017	2903110000-  	- - Chloromethane (methyl chloride) and chloroethane (ethyl chloride)	5	 	051	008	29
+2018	HS2017	2903120000-  	- - Dichloromethane (methylene chloride)	5	 	051	008	29
+2018	HS2017	2903130000-  	- - Chloroform (trichloromethane)	0	 	051	008	29
+2018	HS2017	2903140000-  	- - Carbon tetrachloride	0	 	051	008	29
+2018	HS2017	2903150000-  	- - Ethylene dichloride (ISO) (1,2-dichloroethane)	5.5	 	051	008	29
+2018	HS2017	2903190000-  	- - Other	5	 	051	008	29
+2018	HS2017	2903210000-  	- - Vinyl chloride (chloroethylene)	5	 	051	008	29
+2018	HS2017	2903220000-  	- - Trichlorethylene	0	 	051	008	29
+2018	HS2017	2903230000-  	- - Tetrachloroethylene (perchloroethylene)	5	 	051	008	29
+2018	HS2017	2903290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2903310000-  	- - Ethylene dibromide (ISO) (1,2-dibromoethane)	5	 	051	008	29
+2018	HS2017	2903391100-  	- - - - Bromomethane (methyl bromide)	5	 	051	008	29
+2018	HS2017	2903391500-  	- - - - Dibromomethane	5	 	051	008	29
+2018	HS2017	2903391900-  	- - - - Other	5	 	051	008	29
+2018	HS2017	2903392100-  	- - - - Difluoromethane	5	 	051	008	29
+2018	HS2017	2903392300-  	- - - - Trifluoromethane	5	 	051	008	29
+2018	HS2017	2903392400-  	- - - - Pentafluoroethane and 1,1,1-trifluoroethane	5	 	051	008	29
+2018	HS2017	2903392500-  	- - - - 1,1-difluoroethane	5	 	051	008	29
+2018	HS2017	2903392600-  	- - - - 1,1,1,2-tetrafluoroethane	5	 	051	008	29
+2018	HS2017	2903392700-  	- - - - Pentafluoropropanes, hexafluoropropanes and heptafluoropropanes	5	 	051	008	29
+2018	HS2017	2903392800-  	- - - - Perfluorinated saturated fluorides	5	 	051	008	29
+2018	HS2017	2903392900-  	- - - - Other saturated fluorides	5	 	051	008	29
+2018	HS2017	2903393100-  	- - - - 2,3,3,3-tetrafluoropropene	5	 	051	008	29
+2018	HS2017	2903393500-  	- - - - 1,3,3,3-tetrafluoropropene	5	 	051	008	29
+2018	HS2017	2903393900-  	- - - - Other unsaturated fluorides	5	 	051	008	29
+2018	HS2017	2903398000-  	- - - Iodides	5	 	051	008	29
+2018	HS2017	2903710000-  	- - Chlorodifluoromethane	5	 	051	008	29
+2018	HS2017	2903720000-  	- - Dichlorotrifluoroethanes	5	 	051	008	29
+2018	HS2017	2903730000-  	- - Dichlorofluoroethanes	5	 	051	008	29
+2018	HS2017	2903740000-  	- - Chlorodifluoroethanes	5	 	051	008	29
+2018	HS2017	2903750000-  	- - Dichloropentafluoropropanes	5	 	051	008	29
+2018	HS2017	2903761000-  	- - - Bromochlorodifluoromethane	5	 	051	008	29
+2018	HS2017	2903762000-  	- - - Bromotrifluoromethane	5	 	051	008	29
+2018	HS2017	2903769000-  	- - - Dibromotetrafluoroethanes	5	 	051	008	29
+2018	HS2017	2903776000-  	- - - Trichlorofluoromethane, dichlorodifluoromethane, trichlorotrifluoroethanes, dichlorotetrafluoroethanes and chloropentafluoroethane	5	 	051	008	29
+2018	HS2017	2903779000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2903780000-  	- - Other perhalogenated derivatives	5	 	051	008	29
+2018	HS2017	2903793000-  	- - - Halogenated only with bromine and chlorine, fluorine and chlorine or with fluorine and bromine	5	 	051	008	29
+2018	HS2017	2903798000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2903810000-  	- - 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN)	5	 	051	008	29
+2018	HS2017	2903820000-  	- - Aldrin (ISO), chlordane (ISO) and heptachlor (ISO)	5	 	051	008	29
+2018	HS2017	2903830000-  	- - Mirex (ISO)	5	 	051	008	29
+2018	HS2017	2903891000-  	- - - 1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane; tetrabromocyclooctanes	5	 	051	008	29
+2018	HS2017	2903898000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2903910000-  	- - Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene	5	 	051	008	29
+2018	HS2017	2903920000-  	- - Hexachlorobenzene (ISO) and DDT (ISO) (clofenotane (INN), 1,1,1-trichloro-2,2-bis (p-chlorophenyl)ethane)	5	 	051	008	29
+2018	HS2017	2903930000-  	- - Pentachlorobenzene (ISO)	5	 	051	008	29
+2018	HS2017	2903940000-  	- - Hexabromobiphenyls	5	 	051	008	29
+2018	HS2017	2903991000-  	- - - 2,3,4,5,6-pentabromoethylbenzene	5	 	051	008	29
+2018	HS2017	2903998000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2904100000-  	- Derivatives containing only sulpho groups, their salts and ethyl esters	5	 	051	008	29
+2018	HS2017	2904200000-  	- Derivatives containing only nitro or only nitroso groups	5	 	051	008	29
+2018	HS2017	2904310000-  	- - Perfluorooctane sulphonic acid	5	 	051	008	29
+2018	HS2017	2904320000-  	- - Ammonium perfluorooctane sulphonate	5	 	051	008	29
+2018	HS2017	2904330000-  	- - Lithium perfluorooctane sulphonate	5	 	051	008	29
+2018	HS2017	2904340000-  	- - Potassium perfluorooctane sulphonate	5	 	051	008	29
+2018	HS2017	2904350000-  	- - Other salts of perfluorooctane sulphonic acid	5	 	051	008	29
+2018	HS2017	2904360000-  	- - Perfluorooctane sulphonyl fluoride	5	 	051	008	29
+2018	HS2017	2904910000-  	- - Trichloronitromethane (chloropicrin)	5	 	051	008	29
+2018	HS2017	2904990000-  	- - Other	5	 	051	008	29
+2018	HS2017	2905110000-  	- - Methanol (methyl alcohol)	0	 	051	008	29
+2018	HS2017	2905120000-  	- - Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol)	0	 	051	008	29
+2018	HS2017	2905130000-  	- - Butan-1-ol (n-butyl alcohol)	5	 	051	008	29
+2018	HS2017	2905141000-  	- - - 2-methylpropan-2-ol (tert-butyl alcohol)	5	 	051	008	29
+2018	HS2017	2905149000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2905162000-  	- - - Octan-2-ol	5	 	051	008	29
+2018	HS2017	2905168500-  	- - - Other	5	 	051	008	29
+2018	HS2017	2905170000-  	- - Dodecane-1-ol (lauryl alcohol), hexadecane-1-ol (cetyl alcohol) and octadecane-1-ol (stearyl alcohol)	0	 	051	008	29
+2018	HS2017	2905190000-  	- - Other	5	 	051	008	29
+2018	HS2017	2905220000-  	- - Acyclic terpene alcohols	5	 	051	008	29
+2018	HS2017	2905291000-  	- - - Allyl alcohol	5	 	051	008	29
+2018	HS2017	2905299000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2905310000-  	- - Ethylene glycol (ethanediol)	7	 	051	008	29
+2018	HS2017	2905320000-  	- - Propylene glycol (propane-1,2-diol)	0	 	051	008	29
+2018	HS2017	2905392000-  	- - - Butane-1,3-diol	5	 	051	008	29
+2018	HS2017	2905392500-  	- - - Butane-1,4-diol	5	 	051	008	29
+2018	HS2017	2905393000-  	- - - 2,4,7,9-tetramethyldec-5-yne-4,7-diol	5	 	051	008	29
+2018	HS2017	2905399500-  	- - - Other	5	 	051	008	29
+2018	HS2017	2905410000-  	- - 2-ethyl-2-(hydroxymethyl)propane-1,3-diol (trimethylolpropane)	5	 	051	008	29
+2018	HS2017	2905420000-  	- - Pentaerythritol	5	 	051	008	29
+2018	HS2017	2905430000-  	- - Mannitol	5	 	051	008	29
+2018	HS2017	2905441100-  	- - - - Containing 2% or less by weight of D-mannitol, calculated on the D-glucitol content	5	 	051	008	29
+2018	HS2017	2905441900-  	- - - - Other	5	 	051	008	29
+2018	HS2017	2905449100-  	- - - - Containing 2% or less by weight of D-mannitol, calculated on the D-glucitol content	5	 	051	008	29
+2018	HS2017	2905449900-  	- - - - Other	5	 	051	008	29
+2018	HS2017	2905450001-  	- - - Synthetic of propylene	0	 	051	008	29
+2018	HS2017	2905450009-  	- - - Other	0	 	051	008	29
+2018	HS2017	2905490000-  	- - Other	5	 	051	008	29
+2018	HS2017	2905510000-  	- - Ethchlorvynol (INN)	5	 	051	008	29
+2018	HS2017	2905599100-  	- - - 2,2-bis(bromomethyl)propanediol	5	 	051	008	29
+2018	HS2017	2905599800-  	- - - Other	5	 	051	008	29
+2018	HS2017	2906110000-  	- - Menthol	0	 	051	008	29
+2018	HS2017	2906120000-  	- - Cyclohexanol, methylcyclohexanols and dimethylcyclo-hexanols	5	 	051	008	29
+2018	HS2017	2906131000-  	- - - Sterols	5	 	051	008	29
+2018	HS2017	2906139000-  	- - - Inositols	5	 	051	008	29
+2018	HS2017	2906190000-  	- - Other	5	 	051	008	29
+2018	HS2017	2906210000-  	- - Benzyl alcohol	5	 	051	008	29
+2018	HS2017	2906290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2907110000-  	- - Phenol (hydroxybenzene) and its salts	5	 	051	008	29
+2018	HS2017	2907120000-  	- - Cresols and their salts	5	 	051	008	29
+2018	HS2017	2907130000-  	- - Octylphenol, nonylphenol and their isomers; salts thereof	5	 	051	008	29
+2018	HS2017	2907151000-  	- - - 1-naphthol	0	 	051	008	29
+2018	HS2017	2907159000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2907191000-  	- - Xylenols and their salts	5	 	051	008	29
+2018	HS2017	2907199000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2907210000-  	- - Resorcinol and its salts	 	0.2 euro per kg	051	008	29
+2018	HS2017	2907220000-  	- - Hydroquinone (quinol) and its salts	5	 	051	008	29
+2018	HS2017	2907230000-  	- - 4,4'-isopropylidenediphenol (bisphenol A, diphenylolpropane) and its salts	5	 	051	008	29
+2018	HS2017	2907290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2908110000-  	- - Pentachlorophenol (ISO)	5	 	051	008	29
+2018	HS2017	2908190000-  	- - Other	5	 	051	008	29
+2018	HS2017	2908910000-  	- - Dinoseb (ISO) and its salts	5	 	051	008	29
+2018	HS2017	2908920000-  	- - 4,6-dinitro-o-cresol (DNOC (ISO)) and its salts	5	 	051	008	29
+2018	HS2017	2908990000-  	- - Other	5	 	051	008	29
+2018	HS2017	2909110000-  	- - Diethyl ether	5	 	051	008	29
+2018	HS2017	2909191000-  	- - - Tert-butyl ethyl ether (ethyl-tertio-butyl-ether, ETBE)	5	 	051	008	29
+2018	HS2017	2909199000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2909200000-  	- Cyclanic, cyclenic or cycloterpenic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives	5	 	051	008	29
+2018	HS2017	2909301000-  	- - Diphenyl ether	5	 	051	008	29
+2018	HS2017	2909303100-  	- - - Pentabromodiphenyl ether; 1,2,4,5-tetrabromo-3,6-bis(pentabromophenoxy)benzene	5	 	051	008	29
+2018	HS2017	2909303500-  	- - - 1,2-bis(2,4,6-tribromophenoxy)ethane, for the manufacture of acrylonitrile-butadiene-styrene (ABS)	5	 	051	008	29
+2018	HS2017	2909303800-  	- - - Other	5	 	051	008	29
+2018	HS2017	2909309000-  	- - Other	5	 	051	008	29
+2018	HS2017	2909410000-  	- - 2,2'-oxydiethanol (diethylene glycol, digol)	5	 	051	008	29
+2018	HS2017	2909430000-  	- - Monobutyl ethers of ethylene glycol or of diethylene glycol	5	 	051	008	29
+2018	HS2017	2909440000-  	- - Other monoalkylethers of ethylene glycol or of diethylene glycol	5	 	051	008	29
+2018	HS2017	2909491100-  	- - - 2-(2-chloroethoxy)ethanol	5	 	051	008	29
+2018	HS2017	2909498000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2909500000-  	- Ether-phenols, ether-alcohol-phenols and their halogenated, sulphonated, nitrated or nitrosated derivatives	5	 	051	008	29
+2018	HS2017	2909600000-  	- Alcohol peroxides, ether peroxides, ketone peroxides and their halogenated, sulphonated, nitrated or nitrosated derivatives	5	 	051	008	29
+2018	HS2017	2910100000-  	- Oxirane (ethylene oxide)	5	 	051	008	29
+2018	HS2017	2910200000-  	- Methyloxirane (propylene oxide)	5	 	051	008	29
+2018	HS2017	2910300000-  	- 1-chloro-2,3-epoxypropane (epichlorohydrin)	5.5	 	051	008	29
+2018	HS2017	2910400000-  	- Dieldrin (ISO, INN)	5	 	051	008	29
+2018	HS2017	2910500000-  	- Endrin (ISO)	5	 	051	008	29
+2018	HS2017	2910900000-  	- Other	5	 	051	008	29
+2018	HS2017	2911000000-  	Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives	5	 	051	008	29
+2018	HS2017	2912110000-  	- - Methanal (formaldehyde)	0	 	051	008	29
+2018	HS2017	2912120000-  	- - Ethanal (acetaldehyde)	0	 	051	008	29
+2018	HS2017	2912190000-  	- - Other	0	 	051	008	29
+2018	HS2017	2912210000-  	- - Benzaldehyde	0	 	051	008	29
+2018	HS2017	2912290000-  	- - Other	0	 	051	008	29
+2018	HS2017	2912410000-  	- - Vanillin (4-hydroxy-3-methoxybenzaldehyde)	0	 	051	008	29
+2018	HS2017	2912420000-  	- - Ethyl vanillin (3-ethoxy-4-hydroxybenzaldehyde)	0	 	051	008	29
+2018	HS2017	2912490000-  	- - Other	0	 	051	008	29
+2018	HS2017	2912500000-  	- Cyclic polymers of aldehydes	0	 	051	008	29
+2018	HS2017	2912600000-  	- Paraformaldehyde	0	 	051	008	29
+2018	HS2017	2913000000-  	Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 2912	5	 	051	008	29
+2018	HS2017	2914110000-  	- - Acetone	0	 	051	008	29
+2018	HS2017	2914120000-  	- - Butanone (methyl ethyl ketone)	5	 	051	008	29
+2018	HS2017	2914130000-  	- - 4-methylpentan-2-one (methyl isobutyl ketone)	5	 	051	008	29
+2018	HS2017	2914191000-  	- - - 5-methylhexan-2-one	5	 	051	008	29
+2018	HS2017	2914199000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2914220000-  	- - Cyclohexanone and methylcyclohexanones	5	 	051	008	29
+2018	HS2017	2914230000-  	- - Ionones and methylionones	5	 	051	008	29
+2018	HS2017	2914290000-  	- - Other	0	 	051	008	29
+2018	HS2017	2914310000-  	- - Phenylacetone (phenylpropan-2-one)	5	 	051	008	29
+2018	HS2017	2914390000-  	- - Other	5	 	051	008	29
+2018	HS2017	2914401000-  	- - 4-hydroxy-4-methylpentan-2-one (diacetone alcohol)	5	 	051	008	29
+2018	HS2017	2914409000-  	- - Other	5	 	051	008	29
+2018	HS2017	2914500000-  	- Ketone-phenols and ketones with other oxygen function	5	 	051	008	29
+2018	HS2017	2914610000-  	- - Anthraquinone	5	 	051	008	29
+2018	HS2017	2914620000-  	- - Coenzyme Q10 (ubidecarenone (INN))	5	 	051	008	29
+2018	HS2017	2914691000-  	- - - 1,4-naphthoquinone	5	 	051	008	29
+2018	HS2017	2914698000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2914710000-  	- - Chlordecone (ISO)	5	 	051	008	29
+2018	HS2017	2914790000-  	- - Other	5	 	051	008	29
+2018	HS2017	2915110000-  	- - Formic acid	5	 	051	008	29
+2018	HS2017	2915120000-  	- - Salts of formic acid	5	 	051	008	29
+2018	HS2017	2915130000-  	- - Esters of formic acid	5	 	051	008	29
+2018	HS2017	2915210000-  	- - Acetic acid	0	 	051	008	29
+2018	HS2017	2915240000-  	- - Acetic anhydride	5	 	051	008	29
+2018	HS2017	2915290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2915310000-  	- - Ethyl acetate	5	 	051	008	29
+2018	HS2017	2915320000-  	- - Vinyl acetate	5	 	051	008	29
+2018	HS2017	2915330000-  	- - n-butyl acetate	5	 	051	008	29
+2018	HS2017	2915360000-  	- - Dinoseb (ISO) acetate	5	 	051	008	29
+2018	HS2017	2915390000-  	- - Other	5	 	051	008	29
+2018	HS2017	2915400000-  	- Mono-, di- or trichloroacetic acids, their salts and esters	5	 	051	008	29
+2018	HS2017	2915500000-  	- Propionic acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2915601100-  	- - - 1-isopropyl-2,2-dimethyltrimethylene diisobutyrate	5	 	051	008	29
+2018	HS2017	2915601900-  	- - - Other	5	 	051	008	29
+2018	HS2017	2915609000-  	- - Pentanoic acids, their salts and esters	5	 	051	008	29
+2018	HS2017	2915704000-  	- - Palmitic acid, their salts and esters	5	 	051	008	29
+2018	HS2017	2915705000-  	- - Stearic acid, their salts and esters	5	 	051	008	29
+2018	HS2017	2915903000-  	- - Lauric acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2915907000-  	- - Other	5	 	051	008	29
+2018	HS2017	2916110000-  	- - Acrylic acid and its salts	5	 	051	008	29
+2018	HS2017	2916120000-  	- - Esters of acrylic acid	5	 	051	008	29
+2018	HS2017	2916130000-  	- - Methacrylic acid and its salts	5	 	051	008	29
+2018	HS2017	2916140000-  	- - Esters of methacrylic acid	5	 	051	008	29
+2018	HS2017	2916150000-  	- - Oleic, linoleic or linolenic acids, their salts and esters	5	 	051	008	29
+2018	HS2017	2916160000-  	- - Binapacryl (ISO)	5	 	051	008	29
+2018	HS2017	2916191000-  	- - - Undecenoic acids and their salts and esters	5	 	051	008	29
+2018	HS2017	2916194000-  	- - - Crotonic acid	5	 	051	008	29
+2018	HS2017	2916199500-  	- - - Other	5	 	051	008	29
+2018	HS2017	2916200000-  	- Cyclanic, cyclenic or cycloterpenic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives	0	 	051	008	29
+2018	HS2017	2916310000-  	- - Benzoic acid, its salts and esters	0	 	051	008	29
+2018	HS2017	2916320001-  	- - - Benzoyl peroxide	6.5	 	051	008	29
+2018	HS2017	2916320009-  	- - - Benzoyl chloride	5	 	051	008	29
+2018	HS2017	2916340000-  	- - Phenylacetic acid and its salts	5	 	051	008	29
+2018	HS2017	2916391000-  	- - - Esters of phenylacetic acid	5	 	051	008	29
+2018	HS2017	2916399000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2917110000-  	- - Oxalic acid, its salts and esters	6.5	 	051	008	29
+2018	HS2017	2917120000-  	- - Adipic acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2917131000-  	- - - Sebacic acid	5	 	051	008	29
+2018	HS2017	2917139000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2917140000-  	- - Maleic anhydride	 	0.04 euro per kg	051	008	29
+2018	HS2017	2917191000-  	- - - Malonic acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2917199000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2917200000-  	- Cyclanic, cyclenic or cycloterpenic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives	5	 	051	008	29
+2018	HS2017	2917320000-  	- - Dioctyl orthophthalates	6.5	 	051	008	29
+2018	HS2017	2917330000-  	- - Dinonyl or didecyl orthophthalates	5	 	051	008	29
+2018	HS2017	2917340000-  	- - Other esters of orthophthalic acid	5	 	051	008	29
+2018	HS2017	2917350000-  	- - Phthalic anhydride	5	 	051	008	29
+2018	HS2017	2917360000-  	- - Terephthalic acid and its salts	5	 	051	008	29
+2018	HS2017	2917370000-  	- - Dimethyl terephthalat	5	 	051	008	29
+2018	HS2017	2917392000-  	- - - Ester or anhydride of tetrabromophthalic acid; benzene-1,2,4-tricarboxylic acid; isophthaloyl dichloride, containing by weight 0.8% or less of terephthaloyl dichloride; naphthalene-1,4,5,8-tetracarboxylic acid; tetrachlorophthalic anhydride; sodium	5	 	051	008	29
+2018	HS2017	2917399500-  	- - - Other	5	 	051	008	29
+2018	HS2017	2918110000-  	- - Lactic acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2918120000-  	- - Tartaric acid	5	 	051	008	29
+2018	HS2017	2918130000-  	- - Salts and esters of tartaric acid	5	 	051	008	29
+2018	HS2017	2918140000-  	- - Citric acid	0	 	051	008	29
+2018	HS2017	2918150000-  	- - Salts and esters of citric acid	5	 	051	008	29
+2018	HS2017	2918160000-  	- - Gluconic acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2918170000-  	- - 2,2-diphenyl-2-hydroxyacetic acid (benzilic acid)	5	 	051	008	29
+2018	HS2017	2918180000-  	- - Chlorobenzilate (ISO)	5	 	051	008	29
+2018	HS2017	2918193000-  	- - - Cholic acid, 3-a,12-a-dihydroxy-5-ß-cholan-24-oic acid (deoxycholic acid), their salts and esters	5	 	051	008	29
+2018	HS2017	2918194000-  	- - - 2,2-bis(hydroxymethyl)propionic acid	5	 	051	008	29
+2018	HS2017	2918199800-  	- - - Other	5	 	051	008	29
+2018	HS2017	2918210000-  	- - Salicylic acid and its salts	0	 	051	008	29
+2018	HS2017	2918220000-  	- - o-acetylsalicylic acid, its salts and esters	5	 	051	008	29
+2018	HS2017	2918230000-  	- - Other esters of salicylic acid and their salts	5	 	051	008	29
+2018	HS2017	2918290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2918300000-  	- Carboxylic acids with aldehyde or ketone function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives	5	 	051	008	29
+2018	HS2017	2918910000-  	- - 2,4,5-T (ISO) (2,4,5-trichlorophenoxyacetic acid), its salts and esters	5	 	051	008	29
+2018	HS2017	2918994000-  	- - - 2,6-dimethoxybenzoic acid; dicamba (ISO); sodium phenoxyacetate	0	 	051	008	29
+2018	HS2017	2918999000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2919100000-  	- Tris(2,3-dibromopropyl) phosphate	5	 	051	008	29
+2018	HS2017	2919900000-  	- Other	5	 	051	008	29
+2018	HS2017	2920110000-  	- - Parathion (ISO) and parathion-methyl (ISO) (methyl-parathion)	5	 	051	008	29
+2018	HS2017	2920190000-  	- - Other	0	 	051	008	29
+2018	HS2017	2920210000-  	- - Dimethyl phosphite	5	 	051	008	29
+2018	HS2017	2920220000-  	- - Diethyl phosphite	5	 	051	008	29
+2018	HS2017	2920230000-  	- - Trimethyl phosphite	5	 	051	008	29
+2018	HS2017	2920240000-  	- - Triethyl phosphite	5	 	051	008	29
+2018	HS2017	2920290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2920300000-  	- Endosulfan (ISO)	5	 	051	008	29
+2018	HS2017	2920901000-  	- - Sulphuric esters and carbonic esters and their salts, and their halogenated, sulphonated, nitrated or nitrosated derivatives	5	 	051	008	29
+2018	HS2017	2920907000-  	- - Other compounds	5	 	051	008	29
+2018	HS2017	2921110000-  	- - Methylamine, di- or trimethylamine and their salts	5	 	051	008	29
+2018	HS2017	2921120000-  	- - 2-(N,N-dimethylamino)ethylchloride hydrochloride	5	 	051	008	29
+2018	HS2017	2921130000-  	- - 2-(N,N-diethylamino)ethylchloride hydrochloride	5	 	051	008	29
+2018	HS2017	2921140000-  	- - 2-(N,N-diisopropylamino)ethylchloride hydrochloride	5	 	051	008	29
+2018	HS2017	2921194000-  	- - - 1,1,3,3-tetramethylbutylamine	5	 	051	008	29
+2018	HS2017	2921195000-  	- - - Diethylamine and its salts	5	 	051	008	29
+2018	HS2017	2921199900-  	- - - Other	0	 	051	008	29
+2018	HS2017	2921210000-  	- - Ethylenediamine and its salts	5	 	051	008	29
+2018	HS2017	2921220000-  	- - Hexamethylenediamine and its salts	5	 	051	008	29
+2018	HS2017	2921290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2921301000-  	- - Cyclohexylamine and cyclohexyldimethylamine, and their salts	5	 	051	008	29
+2018	HS2017	2921309100-  	- - Cyclohex-1,3-ylenediamine (1,3-diaminocyclohexane)	5	 	051	008	29
+2018	HS2017	2921309900-  	- - Other	5	 	051	008	29
+2018	HS2017	2921410000-  	- - Aniline and its salts	5	 	051	008	29
+2018	HS2017	2921420000-  	- - Aniline derivatives and their salts	5	 	051	008	29
+2018	HS2017	2921430000-  	- - Toluidines and their derivatives; salts thereof	0	 	051	008	29
+2018	HS2017	2921440000-  	- - Diphenylamine and its derivatives; salts thereof	0	 	051	008	29
+2018	HS2017	2921450000-  	- - 1-naphthylamine (alpha-naphthylamine), 2-naphthylamine (beta-naphthylamine) and their derivatives; salts thereof	5	 	051	008	29
+2018	HS2017	2921460000-  	- - Amfetamine (INN), benzfetamine (INN), dexamfetamine (INN), etilamfetamine (INN), fencamfamin (INN), lefetamine (INN), levamfetamine (INN), mefenorex (INN) and phentermine (INN); salts thereof	5	 	051	008	29
+2018	HS2017	2921490000-  	- - Other	5	 	051	008	29
+2018	HS2017	2921511100-  	- - - - m-phenylenediamine, of a purity by weight of 99% or more and containing:- 1% or less by weight of water,- 200 mg/kg or less of o-phenylenediamine, and- 450 mg/kg or less of p-phenylenediamine	0	 	051	008	29
+2018	HS2017	2921511900-  	- - - - Other	5	 	051	008	29
+2018	HS2017	2921519000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2921595000-  	- - - m-phenylenebis(methylamine); 2,2'-dichloro-4,4'-methylenedianiline; 4,4'-bi-o-toluidine; 1,8-naphthylenediamine	5	 	051	008	29
+2018	HS2017	2921599000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2922110000-  	- - Monoethanolamine and its salts	5	 	051	008	29
+2018	HS2017	2922120000-  	- - Diethanolamine and its salts	5	 	051	008	29
+2018	HS2017	2922140000-  	- - Dextropropoxyphene (INN) and its salts	5	 	051	008	29
+2018	HS2017	2922150000-  	- - Triethanolamine	0	 	051	008	29
+2018	HS2017	2922160000-  	- - Diethanolammonium perfluorooctane sulphonate	5	 	051	008	29
+2018	HS2017	2922170000-  	- - Methyldiethanolamine and ethyldiethanolamine	5	 	051	008	29
+2018	HS2017	2922180000-  	- - 2-(N,N-dfisopropylamino)ethanol	5	 	051	008	29
+2018	HS2017	2922194000-  	- - - Triethanolamine salts	5	 	051	008	29
+2018	HS2017	2922197000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2922210000-  	- - Aminohydroxynaphthalenesulphonic acids and their salts	5	 	051	008	29
+2018	HS2017	2922290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2922310000-  	- - Amfepramone (INN), methadone (INN) and normethadone (INN); salts thereof	5	 	051	008	29
+2018	HS2017	2922390000-  	- - Other	5	 	051	008	29
+2018	HS2017	2922410000-  	- - Lysine and its esters; salts thereof	5	 	051	008	29
+2018	HS2017	2922420000-  	- - Glutamic acid and its salts	5	 	051	008	29
+2018	HS2017	2922430000-  	- - Anthranilic acid and its salts	5	 	051	008	29
+2018	HS2017	2922440000-  	- - Tilidine (INN) and its salts	5	 	051	008	29
+2018	HS2017	2922492000-  	- - - ß-alanine	5	 	051	008	29
+2018	HS2017	2922498500-  	- - - Other	5	 	051	008	29
+2018	HS2017	2922500000-  	- Amino-alcohol-phenols, amino-acid-phenols and other amino-compounds with oxygen function	0	 	051	008	29
+2018	HS2017	2923100000-  	- Choline and its salts	0	 	051	008	29
+2018	HS2017	2923200000-  	- Lecithins and other phosphoaminolipids	0	 	051	008	29
+2018	HS2017	2923300000-  	- Tetraethylammonium perfluorooctane sulphonate	0	 	051	008	29
+2018	HS2017	2923400000-  	- Didecyldimethylammonium perfluorooctane sulphonate	0	 	051	008	29
+2018	HS2017	2923900000-  	- Other	0	 	051	008	29
+2018	HS2017	2924110000-  	- - Meprobamate (INN)	3	 	051	008	29
+2018	HS2017	2924120000-  	- - Fluoroacetamide (ISO), monocrotophos (ISO) and phosphamidon (ISO)	3	 	051	008	29
+2018	HS2017	2924190000-  	- - Other	3	 	051	008	29
+2018	HS2017	2924210000-  	- - Ureines and their derivatives; salts thereof	0	 	051	008	29
+2018	HS2017	2924230000-  	- - 2-acetamidobenzoic acid (N-acetylanthranilic acid) and its salts	5	 	051	008	29
+2018	HS2017	2924240000-  	- - Ethinamate (INN)	5	 	051	008	29
+2018	HS2017	2924250000-  	- - Alachlor (ISO)	0	 	051	008	29
+2018	HS2017	2924291000-  	- - - Lidocaine (INN)	3	 	051	008	29
+2018	HS2017	2924299900-  	- - - Other	0	 	051	008	29
+2018	HS2017	2925110000-  	- - Saccharin and its salts	5	 	051	008	29
+2018	HS2017	2925120000-  	- - Glutethimide (INN)	5	 	051	008	29
+2018	HS2017	2925192000-  	- - - 3,3',4,4',5,5',6,6'-octabromo-N,N'-ethylenediphthalimide; N,N'-ethylenebis(4,5-dibromohexahydro-3,6-methanophthalimide)	5	 	051	008	29
+2018	HS2017	2925199500-  	- - - Other	5	 	051	008	29
+2018	HS2017	2925210000-  	- - Chlordimeform (ISO)	5	 	051	008	29
+2018	HS2017	2925290000-  	- - Other	5	 	051	008	29
+2018	HS2017	2926100000-  	- Acrylonitrile	5	 	051	008	29
+2018	HS2017	2926200000-  	- 1-cyanoguanidine (dicyandiamide)	5	 	051	008	29
+2018	HS2017	2926300000-  	- Fenproporex (INN) and its salts; methadone (INN) intermediate (4-cyano-2-dimethylamino-4,4-diphenylbutane)	5	 	051	008	29
+2018	HS2017	2926400000-  	- alpha-phenylacetoacetonitrile	0	 	051	008	29
+2018	HS2017	2926902000-  	- - Isophthalonitrile	5	 	051	008	29
+2018	HS2017	2926909800-  	- - Other	0	 	051	008	29
+2018	HS2017	2927000000-  	Diazo-, azo- or azoxy-compounds	5	 	051	008	29
+2018	HS2017	2928001000-  	- N,N-bis(2-methoxyethyl)hydroxylamine	5	 	051	008	29
+2018	HS2017	2928009000-  	- Other	5	 	051	008	29
+2018	HS2017	2929100001-  	- - Methylphenylenediisocyanates (toluoldiisocyanates)	0	 	051	008	29
+2018	HS2017	2929100009-  	- - Other	5	 	051	008	29
+2018	HS2017	2929900000-  	- Other	5	 	051	008	29
+2018	HS2017	2930200000-  	- Thiocarbamates and dithiocarbamates	5	 	051	008	29
+2018	HS2017	2930300000-  	- Thiuram mono-, di- or tetrasulphides	0	 	051	008	29
+2018	HS2017	2930401000-  	- - Methionine (INN)	5	 	051	008	29
+2018	HS2017	2930409000-  	- - Other	5	 	051	008	29
+2018	HS2017	2930600000-  	- 2-(N,N-diethylamino)ethanethiol	5	 	051	008	29
+2018	HS2017	2930700000-  	- Bis(2-hydroxyethyl)sulfide (thiodiglycol (INN))	3	 	051	008	29
+2018	HS2017	2930800000-  	- Aldicarb (ISO), captafol (ISO) and methamidophos (ISO)	5	 	051	008	29
+2018	HS2017	2930901300-  	- - Cysteine and cystine	5	 	051	008	29
+2018	HS2017	2930901600-  	- - Derivatives of cysteine or cystine	5	 	051	008	29
+2018	HS2017	2930903000-  	- - DL-2-hydroxy-4-(methylthio)butyric acid	3	 	051	008	29
+2018	HS2017	2930904000-  	- - 2,2'-thiodiethylbis[3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate]	5	 	051	008	29
+2018	HS2017	2930905000-  	- - Mixture of isomers consisting of 4-methyl-2,6-bis(methylthio)-m-phenylenediamine and 2-methyl-4,6-bis(methylthio)-m-phenylenediamine	5	 	051	008	29
+2018	HS2017	2930909500-  	- - Other	5	 	051	008	29
+2018	HS2017	2931100000-  	- Tetramethyl lead and tetraethyl lead	3	 	051	008	29
+2018	HS2017	2931200000-  	- Tributyltin compounds	3	 	051	008	29
+2018	HS2017	2931310000-  	- - Dimethyl methylphosphonate	5	 	051	008	29
+2018	HS2017	2931320000-  	- - Dimethyl propylphosphonate	3	 	051	008	29
+2018	HS2017	2931330000-  	- - Diethyl ethylphosphonate	3	 	051	008	29
+2018	HS2017	2931340000-  	- - Sodium 3-(trihydroxysilyl)propyl methylphosphonate	3	 	051	008	29
+2018	HS2017	2931350000-  	- - 2,4,6-tripropyl-1,3,5,2,4,6-trioxatriphosphinane 2,4,6-trioxide	3	 	051	008	29
+2018	HS2017	2931360000-  	- - (5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate	3	 	051	008	29
+2018	HS2017	2931370000-  	- - Bis[(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5- yl)methyl] methylphosphonate	3	 	051	008	29
+2018	HS2017	2931380000-  	- - Salt of methylphosphonic acid and (aminoiminomethyl)urea (1 : 1)	3	 	051	008	29
+2018	HS2017	2931390000-  	- - Other	3	 	051	008	29
+2018	HS2017	2931902000-  	- - Methylphosphonoyl difluoride (methylphosphonic difluoride)	5	 	051	008	29
+2018	HS2017	2931903000-  	- - Methylphosphonoyl dichloride (methylphosphonic dichloride)	5	 	051	008	29
+2018	HS2017	2931905000-  	- - Etidronic acid (INN) (1-hydroxyethane-1,1-diphosphonic acid) and its salts	3	 	051	008	29
+2018	HS2017	2931906000-  	- - (nitrilotrimethanediyl)tris(phosphonic acid), {ethane-1,2-diylbis[nitrilobis(methylene)]}tetrakis(phosphonic acid), [(bis{2-[bis(phosphonomethyl)amino]ethyl}amino)methyl]phosphonic acid, {hexane-1,6-diylbis[nitrilobis(methylene)]}tetrakis(phosphonic a	3	 	051	008	29
+2018	HS2017	2931908001-  	- - - 2-chloroethylphosphonic acid; organosilicone compounds	5	 	051	008	29
+2018	HS2017	2931908002-  	- - - N-phosphonomethyl-glycine, its potassium and isopropylamine salts	0	 	051	008	29
+2018	HS2017	2931908009-  	- - - Other	5	 	051	008	29
+2018	HS2017	2932110000-  	- - Tetrahydrofuran	5	 	051	008	29
+2018	HS2017	2932120000-  	- - 2-furaldehyde (furfuraldehyde)	5	 	051	008	29
+2018	HS2017	2932130000-  	- - Furfuryl alcohol and tetrahydrofurfuryl alcohol	5	 	051	008	29
+2018	HS2017	2932140000-  	- - Sucralose	5	 	051	008	29
+2018	HS2017	2932190000-  	- - Other	5	 	051	008	29
+2018	HS2017	2932201000-  	- - Phenolphthalein; 1-hydroxy-4-[1-(4-hydroxy-3-methoxycarbonyl-1-naphthyl)-3-oxo-1H,3H-benzo[de]isochromen-1-yl]-6-octadecyloxy-2-naphthoic acid; 3'(-chloro-6'-cyclohexylaminospiro[isobenzofuran-1(3H),9'-xanthen]-3-one; 6'-(N-ethyl-p-toluidino)-2'-methy	5	 	051	008	29
+2018	HS2017	2932202000-  	- - gamma-Butyrolactone	5	 	051	008	29
+2018	HS2017	2932209000-  	- - Other	5	 	051	008	29
+2018	HS2017	2932910000-  	- - Isosafrole	5	 	051	008	29
+2018	HS2017	2932920000-  	- - 1-(1,3-benzodioxol-5-yl)propan-2-one	5	 	051	008	29
+2018	HS2017	2932930000-  	- - Piperonal	5	 	051	008	29
+2018	HS2017	2932940000-  	- - Safrole	5	 	051	008	29
+2018	HS2017	2932950000-  	- - Tetrahydrocannabinols (all isomers)	5	 	051	008	29
+2018	HS2017	2932990000-  	- - Other	0	 	051	008	29
+2018	HS2017	2933111000-  	- - - Propyphenazone (INN)	3	 	051	008	29
+2018	HS2017	2933119000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2933191000-  	- - - Phenylbutazone (INN)	3	 	051	008	29
+2018	HS2017	2933199000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2933210000-  	- - Hydantoin and its derivatives	5	 	051	008	29
+2018	HS2017	2933291000-  	- - - Naphazoline hydrochloride (INNM) and naphazoline nitrate (INNM); phentolamine (INN); tolazoline hydrochloride (INNM)	3	 	051	008	29
+2018	HS2017	2933299000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2933310000-  	- - Pyridine and its salts	5	 	051	008	29
+2018	HS2017	2933320000-  	- - Piperidine and its salts	5	 	051	008	29
+2018	HS2017	2933330000-  	- - Alfentanil (INN), anileridine (INN), bezitramide (INN), bromazepam (INN), difenoxin (INN), diphenoxylate (INN), dipipanone (INN), fentanyl (INN), ketobemidone (INN), methylphenidate (INN), pentazocine (INN), pethidine (INN), pethidine (INN) intermedia	5	 	051	008	29
+2018	HS2017	2933391000-  	- - - Iproniazid (INN); ketobemidone hydrochloride (INNM); pyridostigmine bromide (INN)	3	 	051	008	29
+2018	HS2017	2933392000-  	- - - 2,3,5,6-tetrachloropyridine	5	 	051	008	29
+2018	HS2017	2933392500-  	- - - 3,6-dichloropyridine-2-carboxylic acid	0	 	051	008	29
+2018	HS2017	2933393500-  	- - - 2-hydroxyethylammonium-3,6-dichloropyridine-2-carboxylate	5	 	051	008	29
+2018	HS2017	2933394000-  	- - - 2-butoxyethyl(3,5,6-trichloro-2-pyridyloxy)acetate	5	 	051	008	29
+2018	HS2017	2933394500-  	- - - 3,5-dichloro-2,4,6-trifluoropyridine	5	 	051	008	29
+2018	HS2017	2933395000-  	- - - Fluroxypyr (ISO), methyl ester	5	 	051	008	29
+2018	HS2017	2933395500-  	- - - 4-methylpyridine	5	 	051	008	29
+2018	HS2017	2933399900-  	- - - Other	0	 	051	008	29
+2018	HS2017	2933410000-  	- - Levorphanol (INN) and its salts	5	 	051	008	29
+2018	HS2017	2933491000-  	- - - Halogen derivatives of quinoline; quinolinecarboxylic acid derivatives	0	 	051	008	29
+2018	HS2017	2933493000-  	- - - Dextromethorphan (INN) and its salts	5	 	051	008	29
+2018	HS2017	2933499000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2933520000-  	- - Malonylurea (barbituric acid) and its salts	5	 	051	008	29
+2018	HS2017	2933531000-  	- - - Phenobarbital (INN), barbital (INN), and their salts	3	 	051	008	29
+2018	HS2017	2933539000-  	- - - Other	5	 	051	008	29
+2018	HS2017	2933540000-  	- - Other derivatives of malonylurea (barbituric acid); salts thereof	5	 	051	008	29
+2018	HS2017	2933550000-  	- - Loprazolam (INN), mecloqualone (INN), methaqualone (INN) and zipeprol (INN); salts thereof	3	 	051	008	29
+2018	HS2017	2933591000-  	- - - Diazinon (ISO)	0	 	051	008	29
+2018	HS2017	2933592000-  	- - - 1,4-diazabicyclo[2.2.2]octane (triethylenediamine)	3	 	051	008	29
+2018	HS2017	2933599500-  	- - - Other	0	 	051	008	29
+2018	HS2017	2933610000-  	- - Melamine	5	 	051	008	29
+2018	HS2017	2933691000-  	- - - Atrazine (ISO); propazine (ISO); simazine (ISO); hexahydro-1,3,5-trinitro-1,3,5-triazine (hexogen, trimethylenetrinitramine)	5	 	051	008	29
+2018	HS2017	2933694000-  	- - - Methenamine (INN) (hexamethylenetetramine); 2,6-di-tert-butyl-4-[4.6-bis(octilthio)-1,3,5-triazin-2-yl-amino]phenol	0	 	051	008	29
+2018	HS2017	2933698000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2933710000-  	- - 6-hexanelactam (e-caprolactam)	5	 	051	008	29
+2018	HS2017	2933720000-  	- - Clobazam (INN) and methyprylon (INN)	5	 	051	008	29
+2018	HS2017	2933790000-  	- - Other lactams	0	 	051	008	29
+2018	HS2017	2933911000-  	- - - Chlordiazepoxide (INN)	3	 	051	008	29
+2018	HS2017	2933919000-  	- - - Other	3	 	051	008	29
+2018	HS2017	2933920000-  	- - Azinphos-methyl (ISO)	0	 	051	008	29
+2018	HS2017	2933992000-  	- - - Indole, 3-methylindole (skatole), 6-allyl-6,7-dihydro-5H-dibenz[c,e]azepine (azapetine), phenindamine (INN) and their salts; imipramine hydrochloride (INNM)	3	 	051	008	29
+2018	HS2017	2933995000-  	- - - 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol	0	 	051	008	29
+2018	HS2017	2933998001-  	- - - - Benzimidazole-2-thiol (mercaptobenzimidazole); monoazepines; diazepines	0	 	051	008	29
+2018	HS2017	2933998008-  	- - - - Other	0	 	051	008	29
+2018	HS2017	2934100000-  	- Compounds containing an unfused thiazole ring (whether or not hydrogenated) in the structure:	0	 	051	008	29
+2018	HS2017	2934202000-  	- - Di(benzothiazol-2-yl)disulphide; benzothiazole-2-thiol (mercaptobenzothiazole) and its salts	5	 	051	008	29
+2018	HS2017	2934208000-  	- - Other	5	 	051	008	29
+2018	HS2017	2934301000-  	- - Thiethylperazine (INN); thioridazine (INN) and its salts	3	 	051	008	29
+2018	HS2017	2934309000-  	- - Other	5	 	051	008	29
+2018	HS2017	2934910000-  	- - Aminorex (INN), brotizolam (INN), clotiazepam (INN), cloxazolam (INN), dextromoramide (INN), haloxazolam (INN), ketazolam (INN), mesocarb (INN), oxazolam (INN), pemoline (INN), phendimetrazine (INN), phenmetrazine (INN) and sufentanil (INN); salts the	5	 	051	008	29
+2018	HS2017	2934996001-  	- - - - Chlorprothixene (INN); thenalidine (INN) and its tartrates and maleates; furazolidone (INN)	3	 	051	008	29
+2018	HS2017	2934996009-  	- - - - Other	5	 	051	008	29
+2018	HS2017	2934999000-  	- - - Other	0	 	051	008	29
+2018	HS2017	2935100000-  	- N-methylperfluorooctane sulphonamide	5	 	051	008	29
+2018	HS2017	2935200000-  	- N-Ethylperfluorooctane sulphonamide	5	 	051	008	29
+2018	HS2017	2935300000-  	- N-ethyl-N-(2-hydroxyethyl) perfluorooctane sulphonamide	5	 	051	008	29
+2018	HS2017	2935400000-  	- N-(2-hydroxyethyl)-N-methylperfluorooctane sulphonamide	5	 	051	008	29
+2018	HS2017	2935500000-  	- Other perfluorooctane sulphonamides	5	 	051	008	29
+2018	HS2017	2935903000-  	- - 3-{1-[7-(hexadecylsulphonylamino)-1H-indole-3-yl]-3-oxo-1H,3H-naphtho[1.8-cd]pyran-1-yl}-N,N-dimethyl-1H-indole-7-sulphonamide; metosulam (ISO)	5	 	051	008	29
+2018	HS2017	2935909000-  	- - Other	5	 	051	008	29
+2018	HS2017	2936210000-  	- - Vitamins A and their derivatives	3	 	051	008	29
+2018	HS2017	2936220001-  	- - - Cocarboxylase	6.5	 	051	008	29
+2018	HS2017	2936220009-  	- - - Other	5	 	051	008	29
+2018	HS2017	2936230000-  	- - Vitamin B2 and its derivatives	5	 	051	008	29
+2018	HS2017	2936240000-  	- - D- or DL-pantothenic acid (vitamin B3 or vitamin B5) and its derivatives	5	 	051	008	29
+2018	HS2017	2936250000-  	- - Vitamin B6 and its derivatives	5	 	051	008	29
+2018	HS2017	2936260000-  	- - Vitamin B12 and its derivatives	5	 	051	008	29
+2018	HS2017	2936270000-  	- - Vitamin C and its derivatives	3	 	051	008	29
+2018	HS2017	2936280000-  	- - Vitamin E and its derivatives	3	 	051	008	29
+2018	HS2017	2936290001-  	- - - Vitamin B9 and its derivatives; vitamin H and its derivatives	5	 	051	008	29
+2018	HS2017	2936290009-  	- - - Other	3	 	051	008	29
+2018	HS2017	2936900001-  	- - Natural concentrates of vitamins	5	 	051	008	29
+2018	HS2017	2936900002-  	- - - Intermixtures of vitamins, whether or not in any solvent	3	 	051	008	29
+2018	HS2017	2936900009-  	- - - Other	5	 	051	008	29
+2018	HS2017	2937110000-  	- - Somatotropin, its derivatives and structural analogues	0	 	051	008	29
+2018	HS2017	2937120000-  	- - Insulin and its salts	0	 	051	008	29
+2018	HS2017	2937190000-  	- - Other	0	 	051	008	29
+2018	HS2017	2937210000-  	- - Cortisone, hydrocortisone, prednisone (dehydrocortisone) and prednisolone (dehydrohydrocortisone)	0	 	051	008	29
+2018	HS2017	2937220000-  	- - Halogenated derivatives of corticosteroidal hormones	0	 	051	008	29
+2018	HS2017	2937230000-  	- - Oestrogens and progestogens	0	 	051	008	29
+2018	HS2017	2937290000-  	- - Other	0	 	051	008	29
+2018	HS2017	2937500000-  	- Prostaglandins, thromboxanes and leukotrienes, their derivatives and structural analogues	0	 	051	008	29
+2018	HS2017	2937900000-  	- Other	0	 	051	008	29
+2018	HS2017	2938100000-  	- Rutoside (rutin) and its derivatives	5	 	051	008	29
+2018	HS2017	2938901000-  	- - Digitalis glycosides	5	 	051	008	29
+2018	HS2017	2938903000-  	- - Glycyrrhizic acid and glycyrrhizates	5	 	051	008	29
+2018	HS2017	2938909000-  	- - Other	5	 	051	008	29
+2018	HS2017	2939110000-  	- - Concentrates of poppy straw; buprenorphine (INN), codeine, dihydrocodeine (INN), ethylmorphine, etorphine (INN), heroin, hydrocodone (INN), hydromorphone (INN), morphine, nicomorphine (INN), oxycodone (INN), oxymorphone (INN), pholcodine (INN), thebac	5	 	051	008	29
+2018	HS2017	2939190000-  	- - Other	5	 	051	008	29
+2018	HS2017	2939200000-  	- Alkaloids of cinchona and their derivatives; salts thereof	5	 	051	008	29
+2018	HS2017	2939300000-  	- Caffeine and its salts	5	 	051	008	29
+2018	HS2017	2939410000-  	- - Ephedrine and its salts	5	 	051	008	29
+2018	HS2017	2939420000-  	- - Pseudoephedrine (INN) and its salts	5	 	051	008	29
+2018	HS2017	2939430000-  	- - Cathine (INN) and its salts	5	 	051	008	29
+2018	HS2017	2939440000-  	- - Norephedrine and its salts	5	 	051	008	29
+2018	HS2017	2939490000-  	- - Other	5	 	051	008	29
+2018	HS2017	2939510000-  	- - Fenetylline (INN) and its salts	5	 	051	008	29
+2018	HS2017	2939590000-  	- - Other	5	 	051	008	29
+2018	HS2017	2939610000-  	- - Ergometrine (INN) and its salts	3	 	051	008	29
+2018	HS2017	2939620000-  	- - Ergotamine (INN) and its salts	3	 	051	008	29
+2018	HS2017	2939630000-  	- - Lysergic acid and its salts	3	 	051	008	29
+2018	HS2017	2939690000-  	- - Other	3	 	051	008	29
+2018	HS2017	2939710000-  	- - Cocaine, ecgonine, levometamfetamine, metamfetamine (INN), metamfetamine racemate; salts, esters and other derivatives thereof	5	 	051	008	29
+2018	HS2017	2939790000-  	- - Other	5	 	051	008	29
+2018	HS2017	2939800000-  	- Other	5	 	051	008	29
+2018	HS2017	2940000000-  	Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products of heading 2937, 2938 or 2939	5	 	051	008	29
+2018	HS2017	2941100000-  	- Penicillins and their derivatives with a penicillanic acid structure; salts thereof	0	 	051	008	29
+2018	HS2017	2941203000-  	- - Dihydrostreptomycin, its salts, esters and hydrates	0	 	051	008	29
+2018	HS2017	2941208001-  	- - - Streptomycin	0	 	051	008	29
+2018	HS2017	2941208009-  	- - - Other	0	 	051	008	29
+2018	HS2017	2941300001-  	- - Oxytetracycline	0	 	051	008	29
+2018	HS2017	2941300002-  	- - Tetracycline hydrochloride	0	 	051	008	29
+2018	HS2017	2941300009-  	- - Other	0	 	051	008	29
+2018	HS2017	2941400001-  	- - Levomycetin	0	 	051	008	29
+2018	HS2017	2941400009-  	- - Other	0	 	051	008	29
+2018	HS2017	2941500001-  	- - Erythromycin	0	 	051	008	29
+2018	HS2017	2941500009-  	- - Other	0	 	051	008	29
+2018	HS2017	2941900001-  	- - Kanamycin sulfate	0	 	051	008	29
+2018	HS2017	2941900002-  	- - Lincomycin	0	 	051	008	29
+2018	HS2017	2941900009-  	- - Other	0	 	051	008	29
+2018	HS2017	2942000000-  	Other organic compounds	3	 	051	008	29

@@ -11,14 +11,15 @@ cores <- parallel::detectCores()
 doParallel::registerDoParallel(cores = (cores - 1))
 
 foreach::foreach(
-  import    = import_list,
-  .export   = c("import_list"),
-  .packages = c("httr", "rvest", "parallel", "foreach",
-               "doParallel", "dplyr", "tibble", "purrr"),
-  .verbose  = TRUE) %dopar% {
-
+  import = import_list,
+  .export = c("import_list"),
+  .packages = c("httr", "rvest", "parallel", "foreach", "doParallel",
+                "dplyr", "tibble", "purrr", "readr", "fs"),
+  .verbose = TRUE) %dopar% {
+    # create wto crawler
     wto_crawler <- new_wto_crawler()
 
+    Sys.sleep.random()
     import_session <- request_wto_post(
       wto_crawler,
       params = list(import = import, export = "", hs2 = "", hs4 = "", hs6 = "", submit = ""),
@@ -28,9 +29,7 @@ foreach::foreach(
     export_country_tbl <- get_export_country(import_session)
     export_list <- export_country_tbl$value
 
-
     for (export in export_list) {
-
       tmp_dir_name <- paste0("data/", import, "-", export)
       fs::dir_create(tmp_dir_name)
 
@@ -80,4 +79,3 @@ foreach::foreach(
       }
     }
   }
-

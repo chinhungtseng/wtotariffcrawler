@@ -15,7 +15,8 @@ new_wto_crawler <- function(.verbose = FALSE) {
       url <- "http://db2.wtocenter.org.tw/tariff/Search_byHSCode.aspx"
       # userAgent <- "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
       userAgent <- get_useragent()
-      proxy <- get_proxy()
+      proxies <- get_proxies()
+      proxy <- proxy_pool(proxies)
 
       t0 <- Sys.time()
       session <- rvest::html_session(
@@ -58,7 +59,7 @@ new_wto_crawler <- function(.verbose = FALSE) {
       return(objs)
     }, error = function(cond) {
       message(paste0("* request `", url, "` failed, we will try again later."))
-      Sys.sleep(30)
+      Sys.sleep.random()
     })
   }
   stop(paste0("* request `", url, "` failed too many times, stop program."), call. = FALSE)
