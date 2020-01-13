@@ -83,7 +83,7 @@ request_wto_post.wto <- function(x, params, verbose = FALSE, proxy = FALSE, time
         response_delay = as.numeric(t1 - t0)
       ), class = c("wto", class(session)))
 
-      message(paste0("request `", x$url, "` succeed."))
+      message(paste0("* request `", x$url, "` succeed."))
       return(objs)
     },
       error = function(cond) {

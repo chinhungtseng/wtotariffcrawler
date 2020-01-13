@@ -3,19 +3,13 @@ library(doParallel)
 
 # 1) get import country list
 wto_crawler <- new_wto_crawler()
-import_country_tbl <- get_import_country(wto_crawler)
-import_list <- import_country_tbl$value
-
-# 2)
-# cores <- parallel::detectCores()
-# doParallel::registerDoParallel(cores = (cores - 1))
-doParallel::registerDoParallel(cores = 6)
+import_list <- get_import_country(wto_crawler)$value
 
 foreach::foreach(
   import = import_list,
   .export = c("import_list"),
   .packages = c("httr", "rvest", "parallel", "foreach", "doParallel",
-                "dplyr", "tibble", "purrr", "readr", "fs", "wtotariffcrawler"),
+    "dplyr", "tibble", "purrr", "readr", "fs", "wtotariffcrawler"),
   .verbose = TRUE) %dopar% {
     # create wto crawler
     wto_crawler <- new_wto_crawler()

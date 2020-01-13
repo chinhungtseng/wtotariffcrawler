@@ -44,6 +44,7 @@ new_wto_crawler <- function(.verbose = FALSE, .proxy = FALSE) {
       t1 <- Sys.time()
 
       session <- if (httr::status_code(session) != 200L) NULL else session
+
       objs <- structure(list(
         url = url,
         config = session$config,
@@ -72,7 +73,7 @@ print.wto <- function(x, ...) {
   cat("<wto crawler conifg>\n")
   cat("* status code: ", x$status_code, "\n", sep = "")
   cat("* url: ", x$url, "\n", sep = "")
-  cat("* proxy: ", ifelse(is.null(unlist(proxy)), "NULL", paste0(x$proxy$proxy, ":", x$proxy$proxyport)), "\n", sep = "")
+  cat("* proxy: ", ifelse(is.null(unlist(x$proxy)), "NULL", paste0(x$proxy$proxy, ":", x$proxy$proxyport)), "\n", sep = "")
   cat("* user agent: ", x$user_agent, "\n", sep = "")
   cat("* connet times: ", x$connet_times, "\n", sep = "")
   cat("* response delay: ", x$response_delay, "\n", sep = "")
