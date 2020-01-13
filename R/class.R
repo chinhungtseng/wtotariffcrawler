@@ -4,7 +4,7 @@
 #'
 #' @return list
 #' @export
-new_wto_crawler <- function(.verbose = FALSE) {
+new_wto_crawler <- function(.verbose = FALSE, .proxy = FALSE) {
   ATTEMPTS <- 0
   MAXTRY <- 10
 
@@ -15,8 +15,11 @@ new_wto_crawler <- function(.verbose = FALSE) {
       url <- "http://db2.wtocenter.org.tw/tariff/Search_byHSCode.aspx"
       # userAgent <- "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
       userAgent <- get_useragent()
-      proxies <- get_proxies()
-      proxy <- proxy_pool(proxies)
+
+      if (.proxy) {
+        proxies <- get_proxies()
+        proxy <- proxy_pool(proxies)
+      }
 
       t0 <- Sys.time()
       session <- rvest::html_session(
@@ -34,7 +37,7 @@ new_wto_crawler <- function(.verbose = FALSE) {
           "Upgrade-Insecure-Requests" = "1"
         )),
         httr::user_agent(userAgent),
-        httr::use_proxy(url = proxy$ip, port = proxy$port),
+        {if (.proxy) httr::use_proxy(url = proxy$ip, port = proxy$port)},
         httr::timeout(10),
         {if (.verbose) {httr::verbose()}}
       )
@@ -46,10 +49,10 @@ new_wto_crawler <- function(.verbose = FALSE) {
         config = session$config,
         status_code = httr::status_code(session),
         user_agent = session$response$request$options$useragent,
-        proxy = list(
+        proxy = ifelse(!.proxy, list(proxy = NULL, proxyport = NULL), list(
           proxy     = session$response$request$options$proxy,
           proxyport = session$response$request$options$proxyport
-        ),
+        )),
         session = session,
         connet_times = ATTEMPTS,
         response_delay = as.numeric(t1 - t0)
@@ -69,7 +72,7 @@ print.wto <- function(x, ...) {
   cat("<wto crawler conifg>\n")
   cat("* status code: ", x$status_code, "\n", sep = "")
   cat("* url: ", x$url, "\n", sep = "")
-  cat("* proxy: ", x$proxy$proxy, ":", x$proxy$proxyport, "\n", sep = "")
+  cat("* proxy: ", ifelse(is.null(unlist(proxy)), "NULL", paste0(x$proxy$proxy, ":", x$proxy$proxyport)), "\n", sep = "")
   cat("* user agent: ", x$user_agent, "\n", sep = "")
   cat("* connet times: ", x$connet_times, "\n", sep = "")
   cat("* response delay: ", x$response_delay, "\n", sep = "")

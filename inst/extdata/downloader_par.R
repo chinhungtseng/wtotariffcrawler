@@ -7,14 +7,15 @@ import_country_tbl <- get_import_country(wto_crawler)
 import_list <- import_country_tbl$value
 
 # 2)
-cores <- parallel::detectCores()
-doParallel::registerDoParallel(cores = (cores - 1))
+# cores <- parallel::detectCores()
+# doParallel::registerDoParallel(cores = (cores - 1))
+doParallel::registerDoParallel(cores = 6)
 
 foreach::foreach(
   import = import_list,
   .export = c("import_list"),
   .packages = c("httr", "rvest", "parallel", "foreach", "doParallel",
-                "dplyr", "tibble", "purrr", "readr", "fs"),
+                "dplyr", "tibble", "purrr", "readr", "fs", "wtotariffcrawler"),
   .verbose = TRUE) %dopar% {
     # create wto crawler
     wto_crawler <- new_wto_crawler()
@@ -69,13 +70,19 @@ foreach::foreach(
       }
 
       files <- fs::dir_ls(tmp_dir_name)
-      purrr::map(files, readr::read_tsv) %>%
-        purrr::reduce(dplyr::bind_rows) %>%
-        readr::write_tsv(paste0(tmp_dir_name, ".tsv"))
 
-      if (fs::file_exists(paste0(tmp_dir_name, ".tsv"))) {
-        fs::file_delete(files)
-        fs::dir_delete(tmp_dir_name)
-      }
+      try({
+        purrr::map(files, readr::read_tsv) %>%
+          purrr::reduce(dplyr::bind_rows) %>%
+          readr::write_tsv(paste0(tmp_dir_name, ".tsv"))
+
+        if (fs::file_exists(paste0(tmp_dir_name, ".tsv"))) {
+          fs::file_delete(files)
+          fs::dir_delete(tmp_dir_name)
+        }
+      })
     }
+
+    Sys.sleep(3600)
+
   }
