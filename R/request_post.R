@@ -2,7 +2,7 @@ request_wto_post <- function(x, params, verbose, timeout) {
   UseMethod("request_wto_post")
 }
 
-request_wto_post.wto <- function(x, params, verbose = FALSE, timeout = 60) {
+request_wto_post.wto <- function(x, params, verbose = FALSE, proxy = FALSE, timeout = 60) {
   ATTEMPTS <- 0
   MAXTRY <- 10
 
@@ -12,8 +12,11 @@ request_wto_post.wto <- function(x, params, verbose = FALSE, timeout = 60) {
   content_parsed <- httr::content(response, "parsed")
   forms_fields <- rvest::html_form(content_parsed)[[1]]$fields
   userAgent <- x$user_agent
-  proxy_ip <- x$proxy$proxy
-  proxy_port <- x$proxy$proxyport
+
+  if (proxy) {
+    proxy_ip <- x$proxy$proxy
+    proxy_port <- x$proxy$proxyport
+  }
 
   viewstate          <- forms_fields$`__VIEWSTATE`$value
   viewstategenerator <- forms_fields$`__VIEWSTATEGENERATOR`$value
@@ -57,7 +60,7 @@ request_wto_post.wto <- function(x, params, verbose = FALSE, timeout = 60) {
           "ctl00$ContentPlaceHolder1$btn_serarch"   = submit
         ),
         httr::user_agent(userAgent),
-        httr::use_proxy(proxy_ip, proxy_port),
+        {if (proxy) {httr::use_proxy(proxy_ip, proxy_port)}},
         encode = "form", httr::timeout(timeout),
         {if (verbose) {httr::verbose()}}
       )
@@ -72,10 +75,10 @@ request_wto_post.wto <- function(x, params, verbose = FALSE, timeout = 60) {
         status_code = httr::status_code(session),
         session = session,
         user_agent = session$response$request$options$useragent,
-        proxy = list(
+        proxy = ifelse(!proxy, list(proxy = NULL, proxyport = NULL), list(
           proxy     = session$response$request$options$proxy,
           proxyport = session$response$request$options$proxyport
-        ),
+        )),
         connet_times = ATTEMPTS,
         response_delay = as.numeric(t1 - t0)
       ), class = c("wto", class(session)))
