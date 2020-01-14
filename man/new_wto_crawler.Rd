@@ -4,10 +4,10 @@
 \alias{new_wto_crawler}
 \title{new_wto_crawler}
 \usage{
-new_wto_crawler(verbose = FALSE)
+new_wto_crawler(.verbose = FALSE, .proxy = FALSE)
 }
 \arguments{
-\item{verbose}{TRUE or FALSE}
+\item{.verbose}{TRUE or FALSE}
 }
 \value{
 list

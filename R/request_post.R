@@ -1,10 +1,29 @@
+#' request_wto_post
+#'
+#' @param x .
+#' @param params .
+#' @param verbose .
+#' @param timeout .
+#'
+#' @return .
+#' @export
 request_wto_post <- function(x, params, verbose, timeout) {
   UseMethod("request_wto_post")
 }
 
+#' request_wto_post
+#'
+#' @param x .
+#' @param params .
+#' @param verbose .
+#' @param proxy .
+#' @param timeout .
+#'
+#' @return .
+#' @export
 request_wto_post.wto <- function(x, params, verbose = FALSE, proxy = FALSE, timeout = 60) {
   ATTEMPTS <- 0
-  MAXTRY <- 10
+  MAXTRY <- 0
 
   params_check(params)
 

@@ -1,3 +1,12 @@
+#' tariff_downloader
+#'
+#' @param import .
+#' @param export .
+#' @param hs2 .
+#' @param hs4 .
+#'
+#' @return .
+#' @export
 tariff_downloader <- function(import, export, hs2, hs4) {
 
   if (missing(import) | missing(export)) {
@@ -73,8 +82,7 @@ tariff_downloader <- function(import, export, hs2, hs4) {
     .verbose = TRUE,
     .packages = c("httr", "rvest", "parallel", "foreach", "doParallel",
                   "dplyr", "tibble", "purrr", "readr", "fs", "wtotariffcrawler")
-  ) %dopar% {
-
+  ) %do% {
     cat(paste0("* Try get data { import: ", import, " export: ", export, " hs2: ", hscode2, " }\n"))
 
     Sys.sleep.random()
@@ -115,15 +123,6 @@ tariff_downloader <- function(import, export, hs2, hs4) {
         )
         get_hs6_table(hs4_session)
       }))
-      # hs6_tbl <- foreach::foreach(hscode4 = hs4_list, .combine = rbind, .verbose = TRUE) %do% {
-      #   Sys.sleep.random()
-      #   hs4_session <- request_wto_post(
-      #     hs2_session,
-      #     params = list(import = import, export = export, hs2 = hscode2, hs4 = hscode4, hs6 = "", submit = "查詢"),
-      #     verbose = FALSE
-      #   )
-      #   get_hs6_table(hs4_session)
-      # }
     }
 
     hs6_tbl %>%
